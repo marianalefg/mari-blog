@@ -15,7 +15,7 @@ This template is based on the Next.js JavaScript framework, and allows you to bu
 ### Requirements
 
 - A [Collected Notes](https://collectednotes.com/blog/premium) premium account.
-- A [Vercel](https://vercel.com) account.
+- A [Vercel](https://vercel.com) account
 
 ## Step 1: Create your deployment
 
